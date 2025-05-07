@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Jaswanth
 
-🎓 M.Tech in Computer Science (2025)  
-💻 Software Developer Intern at Zoho  
+🎓 M.Tech in Computer Science (2026)  
+💻 Aspiring Software Developer  
 🚀 Passionate about Java, DSA, and Full-Stack Web Development  
 🔍 Exploring scalable systems and clean code practices
 
