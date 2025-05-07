@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d960658a-83e8-4a06-b3b2-9abd42ad1c0e)## Hi there 👋
+
 
 <!--
 **Jaswanth-3174/Jaswanth-3174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
