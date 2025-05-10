@@ -22,7 +22,22 @@ Here are some ideas to get you started:
 🚀 Passionate about Java, DSA, and Full-Stack Web Development  
 🔍 Exploring scalable systems and clean code practices
 
-## 🔧 Technologies & Tools
+---
+
+## 🛠️ Technical Skills
+
+**Languages:**  
+Java, C, Python, SQL, HTML5, CSS3, JavaScript, Solidity
+
+**Tools & Technologies:**  
+Amazon Web Services (AWS), MySQL, PostgreSQL, Flask, Bootstrap, GitHub, VS Code, IntelliJ IDEA
+
+**Concepts & Subjects:**  
+Data Structures and Algorithms (Java), Object-Oriented Programming, Cloud Computing, Blockchain Technology, Operating Systems, Computer Networks, Database Management Systems, Cryptography, Agile Methodology
+
+---
+
+## 🔧 Technologies & Tools (Visual)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
@@ -31,10 +46,14 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
+---
+
 ## 📈 GitHub Stats
 ![Jaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaswanth-3174&show_icons=true&theme=radical)
 
+---
+
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jaswanths2004)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/Jaswanth_S)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jaswanths2004)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/Jaswanth_S)  
 [![GFG](https://img.shields.io/badge/-GeeksforGeeks-14C38E?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/sjaswanth2004/)
