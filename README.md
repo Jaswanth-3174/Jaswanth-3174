@@ -37,7 +37,7 @@ Data Structures and Algorithms (Java), Object-Oriented Programming, Cloud Comput
 
 ---
 
-## 🔧 Technologies & Tools (Visual)
+## 🔧 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
