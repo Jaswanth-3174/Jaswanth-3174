@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
 -->
 
 # 👋 Hi, I'm Jaswanth
@@ -45,7 +46,6 @@ Data Structures and Algorithms (Java), Object-Oriented Programming, Cloud Comput
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
