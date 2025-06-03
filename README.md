@@ -64,6 +64,10 @@ Data Structures and Algorithms (Java), Object-Oriented Programming, Cloud Comput
 ## 📈 GitHub Stats
 ![Jaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaswanth-3174&show_icons=true&theme=radical)
 
+
+## 🔥 My GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default)](https://git.io/streak-stats)
+
 ---
 
 ## 📫 Connect With Me
