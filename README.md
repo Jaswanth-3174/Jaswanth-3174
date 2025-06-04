@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
 -->
 
-# 👋 Hi, I'm Jaswanth
+# 👋 Hi, I'm Jaswanth S
 
 🎓 M.Tech in Computer Science (2026)  
 💻 Aspiring Software Developer  
