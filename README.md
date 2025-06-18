@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## 🛠️ Technical Skills
 
 **Languages:**  
-Java, C, Python, SQL, HTML5, CSS3, JavaScript(ES6), Solidity
+Java, C, Python, SQL, HTML5, CSS3, JavaScript(ES6), Solidity, C#
 
 **Tools & Technologies:**  
 Amazon Web Services (AWS), MySQL, PostgreSQL, Flask, Bootstrap, GitHub, VS Code, IntelliJ IDEA
