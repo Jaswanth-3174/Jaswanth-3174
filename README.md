@@ -23,7 +23,14 @@ Here are some ideas to get you started:
 🚀 Passionate about Java, DSA, and Cloud Computing  
 🔍 Exploring scalable systems and clean code practices
 
----
+
+## 🧑‍💻 Experience
+
+### 💼 Software Developer Intern – Zoho Corporation (May 2025 – Jun 2025)
+- Developed CI/CD pipelines using Jenkins and GitHub Actions.
+- Built frontend features using React and optimized API integration using Java and Spring Boot.
+- Worked on SQL Query Editor tools and integrated schema-aware autocomplete.
+
 
 ## 🛠️ Technical Skills
 
