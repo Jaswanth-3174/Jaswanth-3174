@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # 👋 Hi, This is Jaswanth S
 
 🎓 M.Tech in Computer Science (2026)  
-💻 Software Developer  
+💻 Aspiring Software Developer  
 🚀 Passionate about Java, DSA, and Cloud Computing  
 🔍 Exploring scalable systems and clean code practices
 
