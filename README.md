@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🎓 M.Tech in Computer Science (2026)  
 💻 Aspiring Software Developer  
-🚀 Passionate about Java, DSA, and Cloud Computing  
+🚀 Passionate about Java, DSA, and Cloud Computing 
 🔍 Exploring scalable systems and clean code practices
 
 
