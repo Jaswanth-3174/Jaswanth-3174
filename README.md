@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 ## 🧑‍💻 Experience
-
+ 
 ### 💼 Software Developer Intern – Zoho Corporation (May 2025 – Jun 2025)
 - Developed CI/CD pipelines using Jenkins and GitHub Actions.
 - Built frontend features using React and optimized API integration using Java and Spring Boot.
