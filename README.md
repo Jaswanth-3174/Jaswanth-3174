@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: .....
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
 -->
-
 # 👋 Hi, This is Jaswanth S
 
 🎓 M.Tech in Computer Science (2026)  
