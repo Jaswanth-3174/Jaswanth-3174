@@ -68,7 +68,7 @@ CLI for distributed SQL querying on large datasets.
 
 <p align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jaswanth-3174&show_icons=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Jaswanth-317&theme=tokyonight" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Jaswanth-3174&theme=tokyonight" />
 </p>
 
 <!--
