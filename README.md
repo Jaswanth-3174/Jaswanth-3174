@@ -1,53 +1,43 @@
+# 👋 Hello, I'm **Jaswanth**
 
+💼 **Technical Trainee @ Zoho**  
+🎓 **M.Tech in Computer Science (2026)**  
+💻 **Backend-Focused Software Developer (Java)**  
+🚀 Passionate about designing scalable systems, writing clean code, and solving real-world engineering problems.
 
-<!--
-**Jaswanth-3174/Jaswanth-3174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-jjjj
-Here are some ideas to get you started: 
-
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ..
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ..
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .....
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
--->
-# 👋 Hi, This is Jaswanth S
-
-🎓 M.Tech in Computer Science (2026)  
-💻 Aspiring Software Developer  
-🔍 Exploring scalable systems and clean code practices
-🚀 Passionate about Java, DSA, and Cloud Computing
-
-
-
-## 🧑‍💻 Experience
- 
-### 💼 Software Developer Intern – Zoho Corporation (May 2025 – Jun 2025)
-- Developed CI/CD pipelines using Jenkins and GitHub Actions.
-- Built frontend features using React and optimized API integration using Java and Spring Boot.
-- Worked on SQL Query Editor tools and integrated schema-aware autocomplete.
-
-
-## 🛠️ Technical Skills
-
-**Languages:**  
-Java, C, Python, SQL, HTML5/CSS3, JavaScript(ES6), Solidity.
-
-**Tools & Technologies:**  
-Amazon Web Services (AWS), MySQL, PostgreSQL, Flask, Bootstrap, GitHub, VS Code, IntelliJ IDEA
-
-**Concepts & Subjects:**  
-Data Structures and Algorithms (Java), Object-Oriented Programming, Cloud Computing, Blockchain Technology, Operating Systems, Computer Networks, Database Management Systems, Cryptography, Agile Methodology
+I specialize in backend development with Java, SQL, distributed systems fundamentals, and modern cloud tools.  
+Currently sharpening my problem-solving skills and building strong engineering foundations.
 
 ---
 
-## 🔧 Technologies & Tools
+## 🧑‍💻 **Experience**
 
+### 💼 **Zoho Corporation – Technical Trainee (2025 – Present)**
+- Working across backend modules, debugging production-like issues, and improving feature logic.  
+- Hands-on development with **Java**, SQL workflows, REST APIs, and internal tools.  
+- Supporting teams in automation, performance enhancements, and system understanding.  
+- Exposure to enterprise-level engineering, code quality standards, and best practices.
+
+### 💼 **Zoho Corporation – Software Developer Intern (May 2025 – Jun 2025)**.
+- Engineered Java-based data extraction tools to parse and derive insights from complex key-value structures and
+deeply nested directories, streamlining analytics workflows across internal systems.
+- Implemented CI/CD pipelines via Jenkins and GitHub, containerized environments with Docker, and integrated Trino
+CLI for distributed SQL querying on large datasets.
+
+---
+
+## 📘 **Core Computer Science Knowledge**
+`Data Structures & Algorithms` • `Object-Oriented Programming`  
+`Operating Systems` • `Computer Networks`  
+`Database Management Systems` • `Cloud Computing`  
+`Blockchain Basics` • `System Design Fundamentals`  
+`Agile Development`  
+
+---
+
+## 🔧 **Technologies & Tools**
+
+### **Languages**
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
@@ -55,30 +45,52 @@ Data Structures and Algorithms (Java), Object-Oriented Programming, Cloud Comput
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
+### **Backend / Cloud / Frameworks**
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
+![REST](https://img.shields.io/badge/-REST-005571?style=flat)
+
+### **Databases**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 
+### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea)
-
-
----
-
-## 📈 GitHub Stats
-![Jaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaswanth-3174&show_icons=true&theme=radical)
-
-
-## 🔥 My GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jaswanth-3174&theme=default)](https://git.io/streak-stats)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jaswanths2004)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/Jaswanth_S)  
-[![GFG](https://img.shields.io/badge/-GeeksforGeeks-14C38E?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/sjaswanth2004/)
+## 📈 **GitHub Stats**
+
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=jaswanth&show_icons=true&theme=tokyonight" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=jaswanth&theme=tokyonight" />
+</p>
+
+<!--
+---
+
+## 🚀 **What I'm Currently Focusing On**
+- Strengthening **backend engineering skills**  
+- Improving **DSA & problem-solving**  
+- Learning **Spring Boot deeply**  
+- Exploring **cloud deployment & microservices fundamentals**
+-->
+---
+
+## 🌐 **Connect With Me**
+🔗 **LinkedIn** – [https://www.linkedin.com/in/jaswanths2004/](https://www.linkedin.com/in/jaswanths2004/)
+🧠 **GeeksforGeeks** – _your link_  
+💡 **LeetCode** – _your link_  
+✍️ **Medium** – [_your link_](https://medium.com/@s.jaswanth2004)
+
+📩 *Follow me to stay connected with my developer journey and learning updates.*
+
+---
+
+⭐ *“Great engineering starts with curiosity, consistency, and clean code.”*
