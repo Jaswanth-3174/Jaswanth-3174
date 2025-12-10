@@ -84,10 +84,10 @@ CLI for distributed SQL querying on large datasets.
 ---
 
 ## 🌐 **Connect With Me**
-🔗 **LinkedIn** – [https://www.linkedin.com/in/jaswanths2004/](https://www.linkedin.com/in/jaswanths2004/)
+🔗 **LinkedIn** – [LinkedIn](https://www.linkedin.com/in/jaswanths2004/)
 🧠 **GeeksforGeeks** – _your link_  
 💡 **LeetCode** – _your link_  
-✍️ **Medium** – [_your link_](https://medium.com/@s.jaswanth2004)
+✍️ **Medium** – [Medium](https://medium.com/@s.jaswanth2004)
 
 📩 *Follow me to stay connected with my developer journey and learning updates.*
 
