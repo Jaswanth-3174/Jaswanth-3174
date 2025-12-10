@@ -46,7 +46,6 @@ CLI for distributed SQL querying on large datasets.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 ### **Backend / Cloud / Frameworks**
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 ![REST](https://img.shields.io/badge/-REST-005571?style=flat)
@@ -88,7 +87,6 @@ CLI for distributed SQL querying on large datasets.
 ✍️ **Medium** – [Medium](https://medium.com/@s.jaswanth2004)
 
 ## 🧠 **Coding Profiles**
-
 🔥 LeetCode – [LeetCode](https://leetcode.com/u/Jaswanth_S/)
 🟢 GeeksforGeeks – [GeeksForGeeks](https://www.geeksforgeeks.org/profile/sjaswanth2004)
 
