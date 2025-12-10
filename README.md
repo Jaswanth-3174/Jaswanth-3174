@@ -85,12 +85,14 @@ CLI for distributed SQL querying on large datasets.
 
 ## 🌐 **Connect With Me**
 🔗 **LinkedIn** – [LinkedIn](https://www.linkedin.com/in/jaswanths2004/)
-🧠 **GeeksforGeeks** – _your link_  
-💡 **LeetCode** – _your link_  
 ✍️ **Medium** – [Medium](https://medium.com/@s.jaswanth2004)
 
-📩 *Follow me to stay connected with my developer journey and learning updates.*
+## 🧠 **Coding Profiles**
+
+🔥 LeetCode – [LeetCode](https://leetcode.com/u/Jaswanth_S/)
+🟢 GeeksforGeeks – [GeeksForGeeks](https://www.geeksforgeeks.org/profile/sjaswanth2004)
 
 ---
-
-⭐ *“Great engineering starts with curiosity, consistency, and clean code.”*
+<!--
+*“Great engineering starts with curiosity, consistency, and clean code.”* -->
+⭐ *“Code. Build. Optimize.”* 
