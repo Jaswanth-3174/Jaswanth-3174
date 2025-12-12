@@ -12,10 +12,9 @@ Currently sharpening my problem-solving skills and building strong engineering f
 
 ## 🧑‍💻 **Experience**
 
-### 💼 **Zoho Corporation – Technical Trainee (2025 – Present)**
-- Working across backend modules, debugging production-like issues, and improving feature logic.  
+### 💼 **Zoho Corporation – Technical Trainee (Dec 2025 – Present)**
+- Working across backend modules, debugging, and improving feature logic.  
 - Hands-on development with **Java**, SQL workflows, REST APIs, and internal tools.  
-- Supporting teams in automation, performance enhancements, and system understanding.  
 - Exposure to enterprise-level engineering, code quality standards, and best practices.
 
 ### 💼 **Zoho Corporation – Software Developer Intern (May 2025 – Jun 2025)**.
