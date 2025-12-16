@@ -17,7 +17,7 @@ Currently sharpening my problem-solving skills and building strong engineering f
 - Hands-on development with **Java**, SQL workflows, REST APIs, and internal tools.  
 - Exposure to enterprise-level engineering, code quality standards, and best practices.
 
-### 💼 **Zoho Corporation – Software Developer Intern (May 2025 – Jun 2025)**.
+### 💼 **Zoho Corporation – Software Developer Intern (May 2025 – Jun 2025)**
 - Engineered Java-based data extraction tools to parse and derive insights from complex key-value structures and
 deeply nested directories, streamlining analytics workflows across internal systems.
 - Implemented CI/CD pipelines via Jenkins and GitHub, containerized environments with Docker, and integrated Trino
